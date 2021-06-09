@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Oakley</title>
+    <link>https://thomasoakley.github.io/Portfolio/</link>
+    <description>Recent content on Thomas Oakley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thomasoakley.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Spin Rate Analysis  </title>
+      <link>https://thomasoakley.github.io/Portfolio/post/project1/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasoakley.github.io/Portfolio/post/project1/</guid>
+      <description>Project Explanation  A project in which we look deeper into MLB pitchers Fastball Spin Rates and Off-Speed Spin Rates.  Collecting the Data The data used in this week&amp;rsquo;s project was pulled from baseball savant. Our list included qualified pitchers from 2018, 2019, and 2020. The total amount of entries that met these conditions was 158. We then sorted the pitchers from highest to lowest spin rates and removed the players that were among the top fifty pitchers in fastball spin rate.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Constructing a Formula to Predict Future Success  </title>
+      <link>https://thomasoakley.github.io/Portfolio/post/project2/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasoakley.github.io/Portfolio/post/project2/</guid>
+      <description>Project Explanation  In this project we will construct a formula in which we predict which current minor league players will have future success. We will use older data to see how well our formula does.  Collecting the Data For this project, we took data from two different sources for the purpose of discovering how well our formula did in two different circumstances. For the first dataset, 2012, we chose the top 20 prospects for each team as listed on MLB.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Airbnb Prices in New York City  </title>
+      <link>https://thomasoakley.github.io/Portfolio/post/project3/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasoakley.github.io/Portfolio/post/project3/</guid>
+      <description>Project Explanation  Through this project were mostly focusing on cleaning a large dataset and cleaning it and drawing statistical inferences from it. This project will be show from screenshots from a Jupyter Notebook in which I explain my rationale with every step.             </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://thomasoakley.github.io/Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasoakley.github.io/Portfolio/contact/</guid>
+      <description>How to Contact
+   Platform URL     Twitter: https://twitter.com/toaks51   Instagram: https://www.instagram.com/toakley13/   Email: toakley181@gmail.com   LinkedIn: https://www.linkedin.com/in/thomas-oakley-916848180/    </description>
+    </item>
+    
+    <item>
+      <title>Project IV: </title>
+      <link>https://thomasoakley.github.io/Portfolio/post/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasoakley.github.io/Portfolio/post/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project V:</title>
+      <link>https://thomasoakley.github.io/Portfolio/post/project5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasoakley.github.io/Portfolio/post/project5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project VI: </title>
+      <link>https://thomasoakley.github.io/Portfolio/post/project6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasoakley.github.io/Portfolio/post/project6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
